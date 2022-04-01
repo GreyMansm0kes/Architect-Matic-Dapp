@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 6000,
   "WEI_COST": 160000000000000000000,
   "DISPLAY_COST": 160,
-  "GAS_LIMIT": 59500000,
+  "GAS_LIMIT": 575770,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/architectnftproject",
   "SHOW_BACKGROUND": true
